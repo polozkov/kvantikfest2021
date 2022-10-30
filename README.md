@@ -1,3 +1,6 @@
+Это фестиваль 2021 год. Про фестиваль 2022 года написано здесь:
+https://polozkov.github.io/kvantikfest2022/
+
 Web-версия в виде html - страницы с изображениями:
 https://polozkov.github.io/kvantikfest2021/
 
